@@ -41,7 +41,7 @@ export default function Intro() {
               <h1 className='font-semibold text-lg'></h1>
             </div>
             <div className='flex   items-center justify-center px-4 flex-wrap'>
-              <p className='px-2  text-gray-600'>e</p>
+              <p className='px-2  text-gray-600'></p>
               <p className='px-2  text-gray-600'></p>
               <p className='px-2  text-gray-600'></p>
             </div>
