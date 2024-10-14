@@ -58,7 +58,7 @@ export default function Intro() {
             <input
               onChange={(e) => setSearch(e.target.value)}
               type="text"
-              placeholder="Search Jobs with Job categories like marketing ..."
+              placeholder="Search Jobs with Job categories like Nursing..."
               className="xs:w-full w-3/4 h-full px-2 bg-gray-200 text-base py-3 outline-none"
             />
             <button
